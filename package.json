@@ -1,6 +1,6 @@
 {
-  "name": "word-counter",
-  "version": "1.0.0",
+  "name": "@abdul_waheed/word-counter",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
